@@ -20,9 +20,6 @@ Sou desenvolvedor com experiência em criação de sites e aplicações web util
 
 - PHP: Desenvolvimento de páginas dinâmicas, manipulação de formulários, conexão com banco de dados (MySQL), criação de sistemas simples (como blogs, portfólios, formulários de contato) e uso de boas práticas de segurança e organização de código.
 
-## 📈 GitHub Stats
-
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillMoreira2129&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 
